@@ -1,0 +1,26 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>surat buat wawa</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Surat Buat wawa</h1>
+        <p>FOR ONLY WAWA</p>
+        <p>Setiap hari memandangmu adalah anugerah yang luar biasa bagiku. Aku merasa beruntung bertemu seseorang sepertimu dalam hidupku. Bunga mawar yang mekar ini melambangkan keindahan dan keabadian cintaku padamu.</p>
+        <div class="photo">
+            <img src="foto_anda.jpg" alt="Foto Bersama">
+        </div>
+        <audio src="butterflies.mp3" controls autoplay loop></audio>
+        <p>Terima kasih telah menjadi bagian dari hidupku. I love you more than anything, now and then.</p>
+        <p>Dengan cinta,</p>
+        <p>aku yang selalu mencintaimu</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
